@@ -4,7 +4,7 @@ Dynamically Orthogonal (DO) solver for 2D incompressible Navier-Stokes in a peri
 
 ## What this project does
 
-- Solves 2D incompressible Navier-Stokes in Fourier space.
+- Solves 2D incompressible Navier-Stokes pseudo-spectrally.
 - Uses a DO decomposition into:
   - Mean flow
   - `S` orthonormal stochastic modes
