@@ -29,3 +29,11 @@ prof.out
 # OS/editor noise
 .DS_Store
 Thumbs.db
+
+tests/det_comparison/
+tests/quick_trials/
+tests/forcing/
+tests/plot_energiesvstime.py
+tests/vorticity_movie.py
+tests/velocity_movie.py
+tests/vorticity_movie_modes_shapes.py
